@@ -3,3 +3,5 @@ I'n not empty anymore!
 What happens when I'm doing all that from vscode?
 
 Wha happens on a signed commit?
+
+and from vscode?
